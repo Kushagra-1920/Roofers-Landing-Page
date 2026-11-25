@@ -1,0 +1,5 @@
+# EDIT: replace the domain
+User-agent: *
+Allow: /
+
+Sitemap: https://summitridgeroofing.example/sitemap.xml
